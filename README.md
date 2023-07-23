@@ -23,4 +23,4 @@
 
 ### 결과물
 
-- <img width="80%" src="/mission02/poster/result.gif"/>
+ <img width="80%" src="/mission02/poster/result.gif"/>
